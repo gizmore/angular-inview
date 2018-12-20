@@ -4,3 +4,6 @@ libpeerconnection.log
 npm-debug.log
 .idea
 docs
+.buildpath
+.project
+.settings/
